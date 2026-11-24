@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051741124309",
+    "project_id": "medora-c07c7",
+    "storage_bucket": "medora-c07c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051741124309:android:9add7846fa0df3d66b545c",
+        "android_client_info": {
+          "package_name": "com.example.medicinfine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmTm2dGzejYYMtRN2GkwRUjInqlOZDqA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051741124309:android:7a77edd1a94cb4316b545c",
+        "android_client_info": {
+          "package_name": "com.example.medora_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmTm2dGzejYYMtRN2GkwRUjInqlOZDqA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
